@@ -1,5 +1,5 @@
 # Launch-Feature-Selection
-In this project, different methods of feature selection, including stepwise selection, lasso and ridge regressions, and ANOVA testing, are explored. This code contains several visualizations as well as basic implementations of these methods in Python.
+In this project, different methods of feature selection, including stepwise selection, lasso and ridge regressions, and ANOVA testing, are explored. This code contains several visualizations as well as basic implementations of these methods in Python. Some additional visualizations can be found in the R files.
 
 Through explorations of these visualizations, we attempt to show why these methods are useful for creating a better model.
 
